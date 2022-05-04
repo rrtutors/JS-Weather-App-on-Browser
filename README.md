@@ -37,21 +37,21 @@
 
 Landing Page (before allowing location)
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/checkWeather/blob/main/images/cw1.png)
+![Initial Stage](https://github.com/rrtutors/JS-Weather-App-on-Browser/blob/main/images/cw1.png)
 <br>
 
 After Allowing Location (Sunny)
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/checkWeather/blob/main/images/cw2.png)
+![Initial Stage](https://github.com/rrtutors/JS-Weather-App-on-Browser/blob/main/images/cw2.png)
 <br>
 
 After Allowing Location (Rainy)
 <br>
-![Initial Stage](https://github.com/ashutoshsinghdengri/checkWeather/blob/main/images/cw3.png)
+![Initial Stage](https://github.com/rrtutors/JS-Weather-App-on-Browser/blob/main/images/cw3.png)
 <br>
 
 <br>
-Tey here - https://ashutoshsinghdengri.github.io/checkWeather/
+Tey here - [Click Me](https://ashutoshsinghdengri.github.io/checkWeather/)
 
 ## Thanks
 # CW
