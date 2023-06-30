@@ -51,7 +51,7 @@ After Allowing Location (Rainy)
 <br>
 
 <br>
-Tey here - [Click Me](https://ashutoshsinghdengri.github.io/checkWeather/)
+Tey here - [Click Me](https://ashutoshdengri.github.io/weather/)
 
 ## Thanks
 # CW
